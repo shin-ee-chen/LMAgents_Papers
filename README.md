@@ -2,10 +2,10 @@
 This repository lists papers on language model agents.
 
 ### Contents (Actively Updating)
-- [1. Multi-agent Simulations & Population Modeling](#1-Multi-agent-simulations-&-Population-Modeling)
-- [2.Interactive Learning, Learning from Human Preferences & Evaluation](#2-interactive-learning-learning-from-human-preferences-&-evaluation)
+- [1. Multi-agent Simulations](#1-multi-agent-simulations)
+- [2.Interactive Learning From Human Preferences](#2-interactive-learning-from-human-preferences)
 
-## 1. Multi-agent Simulations & Population Modeling
+## 1. Multi-agent Simulations
 - LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models, Frisch & Giulianelli 2024: https://arxiv.org/pdf/2402.02896
 - Distributed statistical inference in social interaction networks, Zubak et al. 2024: http://escholarship.org/content/qt8km974x4/qt8km974x4_noSplash_33fef96d585f9b7a4a31b0fbae01b009.pdf
 - The Wisdom of the Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents, Chuang et al. 2024: https://arxiv.org/pdf/2311.09665  
@@ -17,7 +17,7 @@ This repository lists papers on language model agents.
 - ALYMPICS: LLM Agents Meet Game Theory — Exploring Strategic Decision-Making with AI Agents, Mao et al. 2024: https://arxiv.org/pdf/2311.03220
 - Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models, Qiu et al. 2024: https://arxiv.org/pdf/2407.12532
 
-## 2. Interactive Learning, Learning from Human Preferences & Evaluation
+## 2. Interactive Learning From Human Preferences
 - Self-Rewarding Language Models, Yuan et al. 2024: https://arxiv.org/pdf/2401.10020 
 - Iterative Reasoning Preference Optimization, Pang et al. 2024: https://arxiv.org/pdf/2404.19733 
 - Direct Multi-Turn Preference Optimization for Language Agents, Shi et al. 2024: https://arxiv.org/pdf/2406.14868
