@@ -2,11 +2,14 @@
 This repository lists papers on language model agents.
 
 ### Contents (Actively Updating)
-- [1. Multi-agent Simulations](#1-multi-agent-simulations)
+- [1. Multi-agent Simulations and Collaboration](#1-multi-agent-simulations-and-collaboration)
 - [2. Interactive Learning From Human Preferences](#2-interactive-learning-from-human-preferences)
 - [3. Planning And Reasoning](#3-planning-and-reasoning)
+- [4. Multimodal](#4-multimodal)
+- [5. Datasets](#5-datasets)
+- [6. Safety](#6-safety)
 
-## 1. Multi-agent Simulations
+## 1. Multi-agent Simulations and Collaboration
 - LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models, Frisch & Giulianelli 2024: https://arxiv.org/pdf/2402.02896
 - Distributed statistical inference in social interaction networks, Zubak et al. 2024: http://escholarship.org/content/qt8km974x4/qt8km974x4_noSplash_33fef96d585f9b7a4a31b0fbae01b009.pdf
 - The Wisdom of the Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents, Chuang et al. 2024: https://arxiv.org/pdf/2311.09665  
@@ -21,7 +24,7 @@ This repository lists papers on language model agents.
 Neurips 2024
 - Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy, Guan et al. 2024: https://arxiv.org/abs/2407.06813
 - Reflective Multi-Agent Collaboration based on Large Language Models, Bo et al. 2024: https://openreview.net/pdf?id=wWiAR5mqXq
-- 
+- Chain of Agents: Large Language Models Collaborating on Long-Context Tasks, Zhang et al. 2024: https://arxiv.org/abs/2406.02818
 
 ## 2. Interactive Learning From Human Preferences
 - Self-Rewarding Language Models, Yuan et al. 2024: https://arxiv.org/pdf/2401.10020 
@@ -39,26 +42,22 @@ Neurips 2024
 - Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration, Wang et al. 2024: https://arxiv.org/abs/2406.01014
 - Can Graph Learning Improve Planning in LLM-based Agents?, Wu et al. 2024: https://arxiv.org/abs/2405.19119
 - Agent Planning with World Knowledge Model, Qiao et al. 2024: https://arxiv.org/abs/2405.14205
-- 
 
-## 4. Multimodal (not necessary LM-related)
+
+## 4. Multimodal
+Note: not necessarily LM-related.
 - (Neurips 2024, Minecraft) Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks, Xie et al. 2024: https://arxiv.org/abs/2402.04559 
 - (T1, Neurips 2024) TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration, Guo et al. 2024: https://arxiv.org/abs/2410.12183
 Neurips 2024
 - Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning, Zhai et al. 2024: https://arxiv.org/abs/2405.10292
 - OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents, Wang et al. 2024: https://arxiv.org/abs/2405.10292
 - VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought, Sarch et al. 2024: https://arxiv.org/abs/2406.14596
-- 
 
 ## 5. Datasets
 Neurips 2024
 - AGILE: A Novel Reinforcement Learning Framework of LLM Agents, Feng et al. 2024: https://arxiv.org/abs/2405.14751
 
-## 6. Self-Improvement
-Neurips 2024
-- Recursive Introspection: Teaching Language Model Agents How to Self-Improve, Qu et al. 2024: https://arxiv.org/abs/2407.18219
-
-## 7. Safety
+## 6. Safety
 Neurips 2024
 - Secret Collusion among AI Agents: Multi-Agent Deception via Steganography, Motwani et al. 2024: https://arxiv.org/abs/2402.07510
 - AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents, Debenedetti et al. 2024: https://arxiv.org/abs/2406.13352
