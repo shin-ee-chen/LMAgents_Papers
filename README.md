@@ -37,7 +37,7 @@ Neurips 2024:
 - Direct Multi-Turn Preference Optimization for Language Agents, Shi et al. 2024: https://arxiv.org/pdf/2406.14868
 - DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback, Khan et al. 2024: https://arxiv.org/pdf/2410.06215
 - Reflexion: Language Agents with Verbal Reinforcement Learning, Shinn et al. 2023: https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf
-- LLF-Benchmark for Interactive Learning from Language Feedback, Cheng et al. 2023. https://arxiv.org/abs/2312.06853 
+- LLF-Benchmark for Interactive Learning from Language Feedback, Cheng et al. 2023: https://arxiv.org/abs/2312.06853 
 - A fine-grained comparison of pragmatic language understanding in humans and language models, Hu et al. 2022: https://aclanthology.org/2023.acl-long.230/
 
 ## 3. Planning And Reasoning
