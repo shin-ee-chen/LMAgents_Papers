@@ -21,10 +21,15 @@ This repository lists papers on language model agents.
 - ALYMPICS: LLM Agents Meet Game Theory — Exploring Strategic Decision-Making with AI Agents, Mao et al. 2024: https://arxiv.org/pdf/2311.03220
 - Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models, Qiu et al. 2024: https://arxiv.org/pdf/2407.12532
 - (EMNLP 2023) Theory of Mind for Multi-Agent Collaboration via Large Language Models, Li et al. 2023: https://aclanthology.org/2023.emnlp-main.13/
-Neurips 2024
+  
+Neurips 2024:
 - Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy, Guan et al. 2024: https://arxiv.org/abs/2407.06813
 - Reflective Multi-Agent Collaboration based on Large Language Models, Bo et al. 2024: https://openreview.net/pdf?id=wWiAR5mqXq
 - Chain of Agents: Large Language Models Collaborating on Long-Context Tasks, Zhang et al. 2024: https://arxiv.org/abs/2406.02818
+
+- (ICML 2024) Improving Factuality and Reasoning in Language Models through Multiagent Debate, Du et al. 2023: https://arxiv.org/abs/2305.14325
+- (ICLR 2024) AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors, Chen et al. 2024: https://openreview.net/pdf?id=EHg5GDnyq1
+- (ACL 2024) Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View, Zhang et al. 2024: https://arxiv.org/abs/2310.02124 
 
 ## 2. Interactive Learning From Human Preferences
 - Self-Rewarding Language Models, Yuan et al. 2024: https://arxiv.org/pdf/2401.10020 
@@ -37,7 +42,7 @@ Neurips 2024
 
 ## 3. Planning And Reasoning
 - Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface, Hua et al. 2024: https://arxiv.org/abs/2410.00079
-Neurips 2024
+Neurips 2024:
 - AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning, Wu et al. 2024: https://arxiv.org/abs/2406.11200
 - Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration, Wang et al. 2024: https://arxiv.org/abs/2406.01014
 - Can Graph Learning Improve Planning in LLM-based Agents?, Wu et al. 2024: https://arxiv.org/abs/2405.19119
@@ -45,20 +50,19 @@ Neurips 2024
 
 
 ## 4. Multimodal
-Note: not necessarily LM-related.
-- (Neurips 2024, Minecraft) Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks, Xie et al. 2024: https://arxiv.org/abs/2402.04559 
-- (T1, Neurips 2024) TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration, Guo et al. 2024: https://arxiv.org/abs/2410.12183
-Neurips 2024
+Neurips 2024:
+- (Minecraft) Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks, Xie et al. 2024: https://arxiv.org/abs/2402.04559 
+- (CLIP) TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration, Guo et al. 2024: https://arxiv.org/abs/2410.12183
 - Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning, Zhai et al. 2024: https://arxiv.org/abs/2405.10292
 - OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents, Wang et al. 2024: https://arxiv.org/abs/2405.10292
 - VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought, Sarch et al. 2024: https://arxiv.org/abs/2406.14596
 
 ## 5. Datasets
-Neurips 2024
+Neurips 2024:
 - AGILE: A Novel Reinforcement Learning Framework of LLM Agents, Feng et al. 2024: https://arxiv.org/abs/2405.14751
 
 ## 6. Safety
-Neurips 2024
+Neurips 2024:
 - Secret Collusion among AI Agents: Multi-Agent Deception via Steganography, Motwani et al. 2024: https://arxiv.org/abs/2402.07510
 - AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents, Debenedetti et al. 2024: https://arxiv.org/abs/2406.13352
 - Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents, Yang et al. 2024: https://arxiv.org/abs/2402.11208
